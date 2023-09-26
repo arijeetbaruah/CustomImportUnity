@@ -1,4 +1,6 @@
 {
   "name": "com.github.arijeet.customimportunity",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "displayName": "Custom Import Unity",
+  "description": "This is a Custom Import"
 }
